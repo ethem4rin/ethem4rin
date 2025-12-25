@@ -67,12 +67,16 @@
 ## 📫 Contact Me
 
 <p align="center">
-  <a href="mailto:ethem@example.com">
+  <a href="ethem4rin@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" width="40" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/">
+  <a href="https://www.linkedin.com/in/ibrahim-ethem-ar%C4%B1n-549a56341/">
     <img src="https://skillicons.dev/icons?i=linkedin" width="40" />
+  </a>
+   &nbsp;&nbsp;
+  <a>
+    <img src="https://skillicons.dev/icons?i=instagram" width ="40" />
   </a>
 </p>
 
