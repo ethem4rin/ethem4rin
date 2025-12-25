@@ -67,7 +67,7 @@
 ## 📫 Contact Me
 
 <p align="center">
-  <a href="ethem4rin@gmail.com">
+  <a href="www.ethem4rin@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" width="40" />
   </a>
   &nbsp;&nbsp;
@@ -75,7 +75,7 @@
     <img src="https://skillicons.dev/icons?i=linkedin" width="40" />
   </a>
    &nbsp;&nbsp;
-  <a>
+  <a href="https://www.instagram.com/ethem4rin/">
     <img src="https://skillicons.dev/icons?i=instagram" width ="40" />
   </a>
 </p>
