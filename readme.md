@@ -70,11 +70,11 @@
   <a href="www.ethem4rin@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" width="40" />
   </a>
-  &nbsp;&nbsp;
+  
   <a href="https://www.linkedin.com/in/ibrahim-ethem-ar%C4%B1n-549a56341/">
     <img src="https://skillicons.dev/icons?i=linkedin" width="40" />
   </a>
-   &nbsp;&nbsp;
+
   <a href="https://www.instagram.com/ethem4rin/">
     <img src="https://skillicons.dev/icons?i=instagram" width ="40" />
   </a>
